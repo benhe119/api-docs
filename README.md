@@ -5,9 +5,7 @@
 * Makes use of standard HTTP verbs
 
 | Code | Description |
-
 |------------|--------------|
-
 |400 |Malformed or bad JSON Request|
 |401 |API access without authentication or invalid API key|
 |404 |Resource not found|
